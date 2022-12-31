@@ -1,0 +1,17 @@
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.BAL.deps.json
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.BAL.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.BAL.pdb
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.Model.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.Model.pdb
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.csproj.AssemblyReference.cache
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.AssemblyInfoInputs.cache
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.AssemblyInfo.cs
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.csproj.CopyComplete
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\refint\CatsyOnlineStore.BAL.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\CatsyOnlineStore.BAL.pdb
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.BAL\obj\Debug\net6.0\ref\CatsyOnlineStore.BAL.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineSTore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.DataAccess.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineSTore.WebAPI\CatsyOnlineStore.BAL\bin\Debug\net6.0\CatsyOnlineStore.DataAccess.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UHVIykqUFLvxAVpDaBpehcM+odqx9FBLZwBXXdcCioE=",
+  "Source": "CatsyOnlineStore.WebAPI",
+  "BasePath": "_content/CatsyOnlineStore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\bin\Debug\net6.0\CatsyOnlineStore.Model.deps.json
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\bin\Debug\net6.0\CatsyOnlineStore.Model.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\bin\Debug\net6.0\CatsyOnlineStore.Model.pdb
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.csproj.AssemblyReference.cache
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.AssemblyInfoInputs.cache
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.AssemblyInfo.cs
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\refint\CatsyOnlineStore.Model.dll
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\CatsyOnlineStore.Model.pdb
+C:\Users\Naama\CatsyTest\CatsyOnlineStore.WebAPI\CatsyOnlineStore.Model\obj\Debug\net6.0\ref\CatsyOnlineStore.Model.dll
